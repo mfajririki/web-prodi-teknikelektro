@@ -2,7 +2,7 @@
     <div class="row mx-auto" style="margin-top: 100px">
         <div class="col align-self-center">
             <p class="judul">PROGRAM STUDI TEKNIK ELEKTRO</p>
-            <P class="judul">FAKULTAS ILMU KOMPUTER</P>
+            <P class="judul">FAKULTAS TEKNIK</P>
             <P class="judul">UNIVERSITAS BINA DARMA</P>
             <img src={{ asset('assets/images/TE.png') }} alt="Teknik Elektro Akreditasi B"
                 style="width: 200px" class="text-end">
